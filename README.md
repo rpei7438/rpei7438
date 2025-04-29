@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Russell Peiris
-- 👀 I’m interested in a wide range of tech stack - React, Docker, K8s, Datadog, Terraform, Azure, basically full stack.
-- 🌱 I’m currently training to become a fulltime Site Reliability Engineer
+# 👋 Hi, I’m Russell Peiris
 
-<!---
-rpei7438/rpei7438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+I have a passion for exploring a wide range of technologies, including:
+- **Frontend Development**: React
+- **Containerization**: Docker, Kubernetes (K8s)
+- **Monitoring & Observability**: Datadog
+- **Infrastructure as Code**: Terraform
+- **Cloud Platforms**: Azure
+
+## 🌱 Current Focus
+I’m currently training to become a **full-time Site Reliability Engineer (SRE)**, diving deep into building reliable, scalable, and efficient systems.
+
+Feel free to connect and collaborate!
